@@ -1,6 +1,8 @@
 # Markdown Viewer in vanilla JS
 
-This application was built with love to teach developers about web performance. The `master` branch is the unoptimized state and is deployed at https://turtle-markdown-viewer.netlify.com/. Branches were created for each optimization step:
+This application was built with love to teach developers about web performance. This version has no build tool. To work with the Webpack version, see the [markdown-viewer repo](https://github.com/siakaramalegos/markdown-viewer).
+
+The `master` branch is the unoptimized state and is deployed at https://turtle-markdown-viewer.netlify.com/. Branches were created for each optimization step:
 
 - `0-fonts`
 - `1-images` (all exercises)
@@ -10,8 +12,6 @@ This application was built with love to teach developers about web performance. 
 - `1d-images` (image exercise 4)
 - `2-smaller-dependencies`
 - `3-low-hanging-fruit`
-- `4-code-splitting`
-- `5-modern-code`
 
 ## About the trainer
 
