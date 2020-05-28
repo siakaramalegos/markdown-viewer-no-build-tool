@@ -42,6 +42,7 @@ body {
   padding: 1px;}
 .header img {
   float: left;
+  height: auto;
   margin: 21px 20px 0 0;}
 @media (min-width: 1180px) {
   .container {
@@ -87,6 +88,7 @@ article {
   flex-direction: column;
   margin: 6em 0;}
 article img {
+  height: auto;
   width: 100%;
   max-width: 500px;}
 article div.spacer { width: 4em; }
