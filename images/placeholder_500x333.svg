@@ -1,4 +1,1 @@
-<svg viewBox="0 0 500 333" xmlns="http://www.w3.org/2000/svg">
-  <!-- Simple rect element -->
-  <rect x="0" y="0" width="500" height="333" fill="#ccc" />
-</svg>
+<svg viewBox="0 0 500 333" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h500v333h-500z" fill="#ccc"/></svg>
