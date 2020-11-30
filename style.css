@@ -90,6 +90,7 @@ article {
   flex-direction: column;
   margin: 6em 0;}
 article img {
+  height: auto;
   width: 100%;
   max-width: 500px;}
 article div.spacer { width: 4em; }
@@ -145,7 +146,7 @@ code {
 footer {
   /* Gradient generated from https://www.louisbourque.ca/Color-Extractor/ */
   /* background-image: linear-gradient(to right, #614d72 0%, #74618b 50%, #4d3f68 75%, #292643 100%); */
-  background: url('./images/galaxy.jpg') center center no-repeat;
+  background: url('./images/galaxy_1366.jpg') center center no-repeat;
   background-size: cover;
   color: white;
   padding: 2em;}
